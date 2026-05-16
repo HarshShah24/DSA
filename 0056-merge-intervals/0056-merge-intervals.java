@@ -20,13 +20,9 @@ class Solution {
 
         result.add(prevInterval);
 
-        int[][] resultArry = new int[result.size()][2];
+        
 
-        for(int i=0; i<result.size(); i++){
-            resultArry[i] = result.get(i);
-        }
-
-        return resultArry;
+        return result.stream().toArray(int[][]::new);
 
     }
 }

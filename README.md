@@ -19,4 +19,12 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

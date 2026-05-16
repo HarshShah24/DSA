@@ -24,6 +24,7 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0001-two-sum](https://github.com/HarshShah24/DSA/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
+| [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +33,20 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshShah24/DSA/tree/master/0001-two-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshShah24/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
+| [2833-furthest-point-from-origin](https://github.com/HarshShah24/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshShah24/DSA/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/HarshShah24/DSA/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->

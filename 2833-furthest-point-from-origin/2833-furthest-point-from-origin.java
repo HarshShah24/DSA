@@ -1,15 +1,20 @@
 class Solution {
     public int furthestDistanceFromOrigin(String moves) {
-        final Map<Character,Integer> map = new HashMap<>();
+        int leftCount = 0;
+        int rigtCount = 0;
+        int blankCount = 0;
 
         for(char ch : moves.toCharArray()){
-            map.put(ch,map.getOrDefault(ch,0)+1);
+            if(ch == 'L'){
+                leftCount++;
+            }else if(ch == 'R'){
+                rigtCount++;
+            }else{
+                blankCount++;
+            }
         }
 
-        int maxCharacter = map.getOrDefault('L',0) >  map.getOrDefault('R',0) ? map.getOrDefault('L',0) : map.getOrDefault('R',0);
-        int minCharacter = map.getOrDefault('L',0) <  map.getOrDefault('R',0) ?  map.getOrDefault('L',0) : map.getOrDefault('R',0);
-
-        int sum = map.getOrDefault('_',0) + maxCharacter - minCharacter;
+        int sum = blankCount + Math.max(leftCount,rigtCount) - Math.min(leftCount,rigtCount);
         return sum;
     }
 }

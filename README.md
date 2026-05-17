@@ -21,6 +21,7 @@ Daily LeetCode solutions and data structures practice.
 ## Greedy
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
@@ -28,10 +29,12 @@ Daily LeetCode solutions and data structures practice.
 | [0001-two-sum](https://github.com/HarshShah24/DSA/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
+| [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
+| [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,8 +59,17 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshShah24/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 ## Counting
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/HarshShah24/DSA/tree/master/2833-furthest-point-from-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->

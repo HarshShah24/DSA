@@ -7,6 +7,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshShah24/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2833-furthest-point-from-origin](https://github.com/HarshShah24/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0001-two-sum](https://github.com/HarshShah24/DSA/tree/master/0001-two-sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,4 +88,8 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshShah24/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2833-furthest-point-from-origin](https://github.com/HarshShah24/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -18,6 +19,7 @@ Daily LeetCode solutions and data structures practice.
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -92,4 +94,8 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

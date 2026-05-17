@@ -34,6 +34,7 @@ Daily LeetCode solutions and data structures practice.
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshShah24/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
 | ------- |

@@ -30,6 +30,7 @@ Daily LeetCode solutions and data structures practice.
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshShah24/DSA/tree/master/0001-two-sum) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,4 +74,16 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

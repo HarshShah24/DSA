@@ -15,7 +15,7 @@ class Solution {
             int startTime = intervals[i][0];
             int endTime = intervals[i][1];
 
-            while(!pq.isEmpty() && pq.peek() <= startTime){
+            if(!pq.isEmpty() && pq.peek() <= startTime){
                 pq.poll();
             }
 

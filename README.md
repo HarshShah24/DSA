@@ -13,6 +13,7 @@ Daily LeetCode solutions and data structures practice.
 | [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/HarshShah24/DSA/tree/master/0796-rotate-string) |
 | [2833-furthest-point-from-origin](https://github.com/HarshShah24/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
@@ -125,4 +126,8 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshShah24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/HarshShah24/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

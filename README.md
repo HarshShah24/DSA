@@ -8,6 +8,7 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshShah24/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/HarshShah24/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -32,6 +33,7 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0001-two-sum](https://github.com/HarshShah24/DSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/HarshShah24/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
@@ -40,6 +42,7 @@ Daily LeetCode solutions and data structures practice.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 ## Hash Table
@@ -47,6 +50,7 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0001-two-sum](https://github.com/HarshShah24/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/HarshShah24/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Depth-First Search

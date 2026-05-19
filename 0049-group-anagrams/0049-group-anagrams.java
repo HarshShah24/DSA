@@ -23,7 +23,7 @@ class FrequencyChar {
 
         for (int i = 0; i < str.length(); i++) {
             charArry[str.charAt(i) - 'a']++;
-            hash += str.charAt(i);
+            hash += (str.charAt(i) * 7);
         }
 
     }

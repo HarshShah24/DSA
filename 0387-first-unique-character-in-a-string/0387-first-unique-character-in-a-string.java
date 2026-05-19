@@ -1,23 +1,17 @@
 class Solution {
     public int firstUniqChar(String s) {
-        
-        LinkedHashMap<Character,Integer> map = new LinkedHashMap<>();
-        Set<Character> set = new HashSet<>();
+        final int[] freqCount = new int[26];
 
-        for(int i=0; i<s.length();i++){
-            char ch = s.charAt(i);
-            if(map.containsKey(ch)){
-                map.remove(ch);
-                set.add(ch);
-            }else{
-                if(!set.contains(ch)){
-                    map.put(ch,i);
-                }
-            }
-
+        for(char ch : s.toCharArray()){
+            freqCount[ch - 'a']++;
         }
 
-        return map.keySet().isEmpty() ? -1 : map.get(map.keySet().iterator().next());
+        for(int i=0; i<s.length();i++){
+            if(freqCount[s.charAt(i) - 'a'] == 1){
+                return i;
+            }
+        }
 
+        return -1;
     }
 }

@@ -59,6 +59,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshShah24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -116,4 +117,12 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshShah24/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshShah24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshShah24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

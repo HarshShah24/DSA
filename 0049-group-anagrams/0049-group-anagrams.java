@@ -1,46 +1,21 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
+        if (strs.length == 0) return new ArrayList();
+        Map<String, List> ans = new HashMap<String, List>();
+        int[] count = new int[26];
+        for (String s : strs) {
+            Arrays.fill(count, 0);
+            for (char c : s.toCharArray()) count[c - 'a']++;
 
-        final Map<FrequencyChar, List<String>> map = new HashMap<>();
-
-        for (String str : strs) {
-            FrequencyChar freqChar = new FrequencyChar(str);
-            map.computeIfAbsent(freqChar, k -> new ArrayList<>()).add(str);
+            StringBuilder sb = new StringBuilder("");
+            for (int i = 0; i < 26; i++) {
+                sb.append('#');
+                sb.append(count[i]);
+            }
+            String key = sb.toString();
+            if (!ans.containsKey(key)) ans.put(key, new ArrayList());
+            ans.get(key).add(s);
         }
-
-        List<List<String>> result = new ArrayList<>();
-        return map.values().stream().collect(Collectors.toList());
+        return new ArrayList(ans.values());
     }
-
-}
-
-class FrequencyChar {
-
-    char[] charArry = new char[26];
-    int hash;
-
-    public FrequencyChar(String str) {
-
-        for (int i = 0; i < str.length(); i++) {
-            charArry[str.charAt(i) - 'a']++;
-            hash += (str.charAt(i) * 7);
-        }
-
-    }
-
-    @Override
-    public int hashCode() {
-        return this.hash;
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (this == obj)
-            return true;
-        if (!(obj instanceof FrequencyChar))
-            return false;
-
-        return Arrays.equals(this.charArry, ((FrequencyChar) obj).charArry);
-    }
-
 }

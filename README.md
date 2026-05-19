@@ -31,6 +31,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshShah24/DSA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/HarshShah24/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
@@ -63,6 +64,7 @@ Daily LeetCode solutions and data structures practice.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HarshShah24/DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
@@ -85,6 +87,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HarshShah24/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/HarshShah24/DSA/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |

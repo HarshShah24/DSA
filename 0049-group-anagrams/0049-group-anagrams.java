@@ -5,9 +5,7 @@ class Solution {
 
         for (String str : strs) {
             FrequencyChar freqChar = new FrequencyChar(str);
-            List<String> result = map.getOrDefault(freqChar, new ArrayList<>());
-            result.add(str);
-            map.put(freqChar,result);
+            map.computeIfAbsent(freqChar, k -> new ArrayList<>()).add(str);
         }
 
         List<List<String>> result = new ArrayList<>();

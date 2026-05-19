@@ -102,6 +102,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/HarshShah24/DSA/tree/master/0933-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshShah24/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/HarshShah24/DSA/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -130,4 +132,8 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/HarshShah24/DSA/tree/master/0796-rotate-string) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/HarshShah24/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

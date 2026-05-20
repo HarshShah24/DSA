@@ -27,6 +27,7 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Daily LeetCode solutions and data structures practice.
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
+| [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshShah24/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@ Daily LeetCode solutions and data structures practice.
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/HarshShah24/DSA/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/HarshShah24/DSA/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
@@ -131,10 +134,12 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshShah24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshShah24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 ## String Matching
 |  |
 | ------- |
@@ -143,4 +148,5 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/HarshShah24/DSA/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

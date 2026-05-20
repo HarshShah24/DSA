@@ -9,6 +9,7 @@ Daily LeetCode solutions and data structures practice.
 | [0005-longest-palindromic-substring](https://github.com/HarshShah24/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/HarshShah24/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
+| [0212-word-search-ii](https://github.com/HarshShah24/DSA/tree/master/0212-word-search-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshShah24/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -42,6 +43,7 @@ Daily LeetCode solutions and data structures practice.
 | [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/HarshShah24/DSA/tree/master/0212-word-search-ii) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0487-max-consecutive-ones-ii](https://github.com/HarshShah24/DSA/tree/master/0487-max-consecutive-ones-ii) |
@@ -84,6 +86,7 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0048-rotate-image](https://github.com/HarshShah24/DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/HarshShah24/DSA/tree/master/0212-word-search-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,4 +155,12 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/HarshShah24/DSA/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/HarshShah24/DSA/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/HarshShah24/DSA/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->

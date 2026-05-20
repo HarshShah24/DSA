@@ -14,6 +14,7 @@ Daily LeetCode solutions and data structures practice.
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/HarshShah24/DSA/tree/master/0796-rotate-string) |
+| [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 | [1396-design-underground-system](https://github.com/HarshShah24/DSA/tree/master/1396-design-underground-system) |
 | [2833-furthest-point-from-origin](https://github.com/HarshShah24/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ Daily LeetCode solutions and data structures practice.
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshShah24/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@ Daily LeetCode solutions and data structures practice.
 | [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
+| [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +60,7 @@ Daily LeetCode solutions and data structures practice.
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshShah24/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 | [1396-design-underground-system](https://github.com/HarshShah24/DSA/tree/master/1396-design-underground-system) |
 ## Depth-First Search
 |  |

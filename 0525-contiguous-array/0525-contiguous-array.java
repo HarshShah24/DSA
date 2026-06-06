@@ -1,7 +1,11 @@
 class Solution {
     public int findMaxLength(int[] nums) {
         
-    
+        for(int i=0; i<nums.length;i++){
+            if(nums[i] == 0){
+                nums[i] = -1;
+            }
+        }
 
         final Map<Integer,Integer> map = new HashMap<>();
         int prefixSum = 0;
@@ -11,13 +15,13 @@ class Solution {
         map.put(0,-1);
 
         for(int i=0; i<nums.length; i++){
-            prefixSum += nums[i] == 0 ? -1 : 1;
+            prefixSum += nums[i];
             if(map.containsKey(prefixSum-target)){
                 int len = i - map.get(prefixSum-target);
                 result =  Math.max(result,len);
             }
             else{
-                map.put(prefixSum,i);
+            map.put(prefixSum,i);
             }
             
         }

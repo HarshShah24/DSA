@@ -49,6 +49,7 @@ Daily LeetCode solutions and data structures practice.
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0487-max-consecutive-ones-ii](https://github.com/HarshShah24/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0525-contiguous-array](https://github.com/HarshShah24/DSA/tree/master/0525-contiguous-array) |
+| [0645-set-mismatch](https://github.com/HarshShah24/DSA/tree/master/0645-set-mismatch) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/HarshShah24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
@@ -60,6 +61,7 @@ Daily LeetCode solutions and data structures practice.
 | [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0645-set-mismatch](https://github.com/HarshShah24/DSA/tree/master/0645-set-mismatch) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/HarshShah24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshShah24/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -73,6 +75,7 @@ Daily LeetCode solutions and data structures practice.
 | [0387-first-unique-character-in-a-string](https://github.com/HarshShah24/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/HarshShah24/DSA/tree/master/0525-contiguous-array) |
+| [0645-set-mismatch](https://github.com/HarshShah24/DSA/tree/master/0645-set-mismatch) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 | [1396-design-underground-system](https://github.com/HarshShah24/DSA/tree/master/1396-design-underground-system) |
 ## Depth-First Search
@@ -175,4 +178,8 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/HarshShah24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/HarshShah24/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->

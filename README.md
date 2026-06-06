@@ -47,6 +47,7 @@ Daily LeetCode solutions and data structures practice.
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0487-max-consecutive-ones-ii](https://github.com/HarshShah24/DSA/tree/master/0487-max-consecutive-ones-ii) |
+| [0525-contiguous-array](https://github.com/HarshShah24/DSA/tree/master/0525-contiguous-array) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshShah24/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -66,6 +67,7 @@ Daily LeetCode solutions and data structures practice.
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshShah24/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/HarshShah24/DSA/tree/master/0525-contiguous-array) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 | [1396-design-underground-system](https://github.com/HarshShah24/DSA/tree/master/1396-design-underground-system) |
 ## Depth-First Search
@@ -105,6 +107,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
+| [0525-contiguous-array](https://github.com/HarshShah24/DSA/tree/master/0525-contiguous-array) |
 ## Math
 |  |
 | ------- |

@@ -50,6 +50,7 @@ Daily LeetCode solutions and data structures practice.
 | [0525-contiguous-array](https://github.com/HarshShah24/DSA/tree/master/0525-contiguous-array) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshShah24/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshShah24/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ Daily LeetCode solutions and data structures practice.
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshShah24/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |

@@ -45,6 +45,7 @@ Daily LeetCode solutions and data structures practice.
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/HarshShah24/DSA/tree/master/0212-word-search-ii) |
+| [0239-sliding-window-maximum](https://github.com/HarshShah24/DSA/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0487-max-consecutive-ones-ii](https://github.com/HarshShah24/DSA/tree/master/0487-max-consecutive-ones-ii) |
@@ -110,6 +111,7 @@ Daily LeetCode solutions and data structures practice.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/HarshShah24/DSA/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 ## Prefix Sum
 |  |
@@ -136,6 +138,7 @@ Daily LeetCode solutions and data structures practice.
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/HarshShah24/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshShah24/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0487-max-consecutive-ones-ii](https://github.com/HarshShah24/DSA/tree/master/0487-max-consecutive-ones-ii) |
 ## Recursion
@@ -145,6 +148,7 @@ Daily LeetCode solutions and data structures practice.
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/HarshShah24/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshShah24/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/HarshShah24/DSA/tree/master/0933-number-of-recent-calls) |
 ## Linked List
@@ -182,4 +186,8 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/HarshShah24/DSA/tree/master/0645-set-mismatch) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HarshShah24/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

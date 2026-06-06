@@ -154,6 +154,7 @@ Daily LeetCode solutions and data structures practice.
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/HarshShah24/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshShah24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List

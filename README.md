@@ -24,6 +24,7 @@ Daily LeetCode solutions and data structures practice.
 | [0005-longest-palindromic-substring](https://github.com/HarshShah24/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0487-max-consecutive-ones-ii](https://github.com/HarshShah24/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/HarshShah24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Daily LeetCode solutions and data structures practice.
 | [0487-max-consecutive-ones-ii](https://github.com/HarshShah24/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0525-contiguous-array](https://github.com/HarshShah24/DSA/tree/master/0525-contiguous-array) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/HarshShah24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshShah24/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshShah24/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +61,7 @@ Daily LeetCode solutions and data structures practice.
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
 | [0253-meeting-rooms-ii](https://github.com/HarshShah24/DSA/tree/master/0253-meeting-rooms-ii) |
 | [1169-invalid-transactions](https://github.com/HarshShah24/DSA/tree/master/1169-invalid-transactions) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/HarshShah24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshShah24/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
@@ -168,4 +171,8 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/HarshShah24/DSA/tree/master/0212-word-search-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/HarshShah24/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 <!---LeetCode Topics End-->

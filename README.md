@@ -8,6 +8,7 @@ Daily LeetCode solutions and data structures practice.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshShah24/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/HarshShah24/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/HarshShah24/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
 | [0212-word-search-ii](https://github.com/HarshShah24/DSA/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/HarshShah24/DSA/tree/master/0242-valid-anagram) |
@@ -29,6 +30,7 @@ Daily LeetCode solutions and data structures practice.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HarshShah24/DSA/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |

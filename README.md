@@ -33,6 +33,7 @@ Daily LeetCode solutions and data structures practice.
 | [0020-valid-parentheses](https://github.com/HarshShah24/DSA/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0901-online-stock-span](https://github.com/HarshShah24/DSA/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 ## Greedy
 |  |
@@ -133,6 +134,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/HarshShah24/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/HarshShah24/DSA/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/HarshShah24/DSA/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
@@ -174,6 +176,7 @@ Daily LeetCode solutions and data structures practice.
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/HarshShah24/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/HarshShah24/DSA/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |
 ## Backtracking
@@ -196,4 +199,8 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HarshShah24/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/HarshShah24/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

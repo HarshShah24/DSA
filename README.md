@@ -31,6 +31,7 @@ Daily LeetCode solutions and data structures practice.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshShah24/DSA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarshShah24/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/HarshShah24/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/HarshShah24/DSA/tree/master/0901-online-stock-span) |
@@ -47,6 +48,7 @@ Daily LeetCode solutions and data structures practice.
 | [0048-rotate-image](https://github.com/HarshShah24/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HarshShah24/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HarshShah24/DSA/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarshShah24/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/HarshShah24/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/HarshShah24/DSA/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/HarshShah24/DSA/tree/master/0239-sliding-window-maximum) |
@@ -202,5 +204,6 @@ Daily LeetCode solutions and data structures practice.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarshShah24/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/HarshShah24/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

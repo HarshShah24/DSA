@@ -129,6 +129,7 @@ Daily LeetCode solutions and data structures practice.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshShah24/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/HarshShah24/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HarshShah24/DSA/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HarshShah24/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -153,6 +154,7 @@ Daily LeetCode solutions and data structures practice.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshShah24/DSA/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/HarshShah24/DSA/tree/master/0394-decode-string) |
 ## Queue
 |  |
@@ -163,6 +165,7 @@ Daily LeetCode solutions and data structures practice.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshShah24/DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarshShah24/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshShah24/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/HarshShah24/DSA/tree/master/1472-design-browser-history) |

@@ -1,12 +1,18 @@
 class RecentCounter {
-    TreeMap<Integer,Integer> map;
+
+    PriorityQueue<Integer> pq;
+
     public RecentCounter() {
-        map = new TreeMap<>();
+        pq = new PriorityQueue<>();
     }
     
     public int ping(int t) {
-        map.put(t,map.getOrDefault(t,0)+1);
-        return map.tailMap(t-3000,true).values().stream().collect(Collectors.summingInt(Integer::intValue));
+        int startTime =  t - 3000;
+        while(!pq.isEmpty() && pq.peek() < startTime){
+            pq.poll();
+        }
+        pq.add(t);
+        return pq.size();
     }
 }
 

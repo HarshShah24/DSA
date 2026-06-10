@@ -1,18 +1,19 @@
 class RecentCounter {
 
-    PriorityQueue<Integer> pq;
+    private final Queue<Integer> queue;
 
     public RecentCounter() {
-        pq = new PriorityQueue<>();
+        queue = new ArrayDeque<>();
     }
     
     public int ping(int t) {
         int startTime =  t - 3000;
-        while(!pq.isEmpty() && pq.peek() < startTime){
-            pq.poll();
+        // Evict outdated timestamps from the front of the queue
+        while (!queue.isEmpty() && queue.peek() < startTime) {
+            queue.poll();
         }
-        pq.add(t);
-        return pq.size();
+        queue.add(t);
+        return queue.size();
     }
 }
 

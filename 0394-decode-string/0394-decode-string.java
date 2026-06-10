@@ -1,52 +1,34 @@
 class Solution {
     public String decodeString(String s) {
         
-        final Stack<Integer> freqStack = new Stack<>(); 
-        final Stack<StringBuilder> strStack = new Stack<>();
+        final ArrayDeque<Integer> countStack = new ArrayDeque<>();
+        final ArrayDeque<StringBuilder> seqStack = new ArrayDeque<>();
 
-        int index = 0;
-        StringBuilder seq = new StringBuilder();
-        int freq = 0;
+        StringBuilder current = new StringBuilder();
+        int count = 0;
 
-        while(index < s.length()){
-            final char ch = s.charAt(index);
+        for(char ch : s.toCharArray()){
             if(Character.isDigit(ch)){
-                
-                StringBuilder value = new StringBuilder();
-                while(index < s.length() && Character.isDigit(s.charAt(index))){
-                    value.append(s.charAt(index++));
-                }
-
-                freq = Integer.parseInt(value.toString());
-                continue;
-
+                count = count*10 + (ch - '0');
+            }else if(Character.isAlphabetic(ch)){
+                current.append(ch);
             }else if(ch == '['){
-                freqStack.push(freq);
-                strStack.push(seq);
-
-                seq = new StringBuilder();
-                freq = 0;
-
-
-            }else if(Character.isAlphabetic(ch)){ 
-                seq.append(ch);
-            }else{ //Closing Brace
-                
-                int repeatTimes = freqStack.pop();
-                StringBuilder previousContext = strStack.pop();
-                
-                // Append the current decoded segment 'repeatTimes' times to the previous context
-                for (int i = 0; i < repeatTimes; i++) {
-                    previousContext.append(seq);
+                seqStack.push(current);
+                countStack.push(count);
+                current = new StringBuilder();
+                count = 0;
+            }else {
+                int repeat = countStack.pop();
+                StringBuilder decodedString = current;
+                current = seqStack.pop();
+                while(repeat > 0){
+                    current.append(decodedString);
+                    repeat--;
                 }
-                // The previous context updated with the repetitions is now our active sequence
-                seq = previousContext;
-
             }
-            index++;
         }
 
-        return seq.toString();
+        return current.toString();
 
     }
 }
